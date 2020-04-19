@@ -9,7 +9,7 @@
  * @link      http://www.opensource-socialnetwork.org/licence
  */
 $fr = array(
-    'com:delete:group:deleted' => 'Groupe Effacer',
+    'com:delete:group:deleted' => 'Groupe Effacé',
 	'com:delete:group:delete:error' => 'Le groupe ne peut être effacé',
 	'delete:group' => 'Effacer le Groupe',
 );
